@@ -1,0 +1,6 @@
+git add .
+git add _config.yml
+git commit -m "Your commit message here"
+git remote add origin https://github.com/franceslinyc2/franceslinyc2.github.io.git
+git push -u origin master
+
